@@ -10,9 +10,52 @@
   
 ##
 ### Feramentas usadas
-<div style="display: inline_block"><br>
- <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="icons/vscode-original.svg">
- <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="icons/github-original.svg">
- <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="icons/python-original.svg">
- <img align="center" alt="Sweyd-VSCode" height="30" width="40" src="icons/linux-original.svg">
+<div style="display: inline_block">
+  <br />
+
+  <a href="https://code.visualstudio.com/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/vscode-original.svg"
+    />
+  </a>
+  <a href="https://github.com/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/github-original.svg"
+    />
+  </a>
+  <a href="https://www.python.org/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/python-original.svg"
+    />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/linux-original.svg"
+    />
+  </a>
+  <a href="https://www.docker.com/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/docker-original.svg"
+    />
+  </a>
 </div>
