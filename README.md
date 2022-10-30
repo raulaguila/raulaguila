@@ -32,7 +32,7 @@
       src="icons/github-original.svg"
     />
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img
       align="center"
       alt="Sweyd-VSCode"
