@@ -41,15 +41,6 @@
       src="icons/python-original.svg"
     />
   </a>
-  <a href="https://ubuntu.com/">
-    <img
-      align="center"
-      alt="Sweyd-VSCode"
-      height="30"
-      width="40"
-      src="icons/linux-original.svg"
-    />
-  </a>
   <a href="https://reactjs.org/">
     <img
       align="center"
@@ -66,6 +57,15 @@
       height="30"
       width="40"
       src="icons/docker-original.svg"
+    />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/linux-original.svg"
     />
   </a>
 </div>
