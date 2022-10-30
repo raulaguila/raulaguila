@@ -1,6 +1,6 @@
 ##
 
-### Visão geral rápida
+### Overview
 
 <div>
   <a href="https://github.com/raulaguila">
@@ -10,7 +10,7 @@
 </div>
   
 ##
-### Feramentas usadas
+### Tools
 <div style="display: inline_block">
   <br />
 
@@ -48,6 +48,15 @@
       height="30"
       width="40"
       src="icons/linux-original.svg"
+    />
+  </a>
+  <a href="https://reactjs.org/">
+    <img
+      align="center"
+      alt="Sweyd-VSCode"
+      height="30"
+      width="40"
+      src="icons/react-original.svg"
     />
   </a>
   <a href="https://www.docker.com/">
