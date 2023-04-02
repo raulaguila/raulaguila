@@ -2,16 +2,16 @@
 
 <div>
 <p align="center">
-  <a href="https://github.com/raulaguila">
+  <a href="https://github.com/raulaguila"  style="text-decoration:none;">
     <img align="center"
         height="150em"
         src="https://github-readme-stats.vercel.app/api?username=raulaguila&show_icons=true&include_all_commits=false&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
-  <a href="https://github.com/raulaguila">
+  <a href="https://github.com/raulaguila"  style="text-decoration:none;">
   <img align="center"
         height="150em"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=raulaguila&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
-  </a></br>
+  </a>
 </p>
 </div>
 
