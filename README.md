@@ -1,5 +1,3 @@
-##
-
 ### Overview
 
 <div>
@@ -21,13 +19,12 @@
 
 <div>
 <p align="center">
-
   <a href="https://github.com/" style="text-decoration:none;">
     <img
       align="center"
       alt="Github"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/github-original.svg"
     />
   </a>
@@ -35,8 +32,8 @@
     <img
       align="center"
       alt="VSCode"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/vscode-original.svg"
     />
   </a>
@@ -44,8 +41,8 @@
     <img
       align="center"
       alt="Golang"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/golang-original.svg"
     />
   </a>
@@ -53,8 +50,8 @@
     <img
       align="center"
       alt="Python"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/python-original.svg"
     />
   </a>
@@ -62,8 +59,8 @@
     <img
       align="center"
       alt="Linux Ubuntu"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/linux-original.svg"
     />
   </a>
@@ -71,8 +68,8 @@
     <img
       align="center"
       alt="Docker"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/docker-original.svg"
     />
   </a>
@@ -80,8 +77,8 @@
     <img
       align="center"
       alt="Mongo DB"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/mongodb-original.svg"
     />
   </a>
@@ -89,8 +86,8 @@
     <img
       align="center"
       alt="Postgres SQL"
-      height="50"
-      width="65"
+      height="40"
+      width="55"
       src="icons/postgres-original.svg"
     />
   </a>
