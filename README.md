@@ -1,4 +1,4 @@
-### Overview
+## Overview
 
 <div>
 <p align="center">
@@ -15,90 +15,27 @@
 </p>
 </div>
 
-### Tools
 
-<div>
-<p align="center">
-  <a href="https://github.com/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Github"
-      height="40"
-      width="55"
-      src="icons/github-original.svg"
-    />
-  </a>
-  <a href="https://code.visualstudio.com/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="VSCode"
-      height="40"
-      width="55"
-      src="icons/vscode-original.svg"
-    />
-  </a>
-  <a href="https://go.dev/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Golang"
-      height="40"
-      width="55"
-      src="icons/golang-original.svg"
-    />
-  </a>
-  <a href="https://www.python.org/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Python"
-      height="40"
-      width="55"
-      src="icons/python-original.svg"
-    />
-  </a>
-  <a href="https://ubuntu.com/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Linux Ubuntu"
-      height="40"
-      width="55"
-      src="icons/linux-original.svg"
-    />
-  </a>
-  <a href="https://www.docker.com/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Docker"
-      height="40"
-      width="55"
-      src="icons/docker-original.svg"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Mongo DB"
-      height="40"
-      width="55"
-      src="icons/mongodb-original.svg"
-    />
-  </a>
-  <a href="https://www.postgresql.org/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Postgres SQL"
-      height="40"
-      width="55"
-      src="icons/postgres-original.svg"
-    />
-  </a>
-  <a href="https://redis.io/" style="text-decoration:none;">
-    <img
-      align="center"
-      alt="Redis"
-      height="40"
-      width="55"
-      src="icons/redis-original.svg"
-    />
-  </a>
-</p>
-</div>
+## Technologies
+### 📋 Languages
+
+[![Python](https://img.shields.io/badge/python-3.10.8-ffdd54?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.oracle.com/java/)
+[![Go](https://img.shields.io/badge/go-1.20.2-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=2300ADD8)](https://go.dev/)
+
+### 💾 Databases
+
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+
+### 🥅 Other
+
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)](https://mosquitto.org/)
+[![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+
