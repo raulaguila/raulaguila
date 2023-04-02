@@ -3,27 +3,26 @@
 ### Overview
 
 <div>
+<p align="center">
   <a href="https://github.com/raulaguila">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=raulaguila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulaguila&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="center"
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api?username=raulaguila&show_icons=true&include_all_commits=false&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
   </a>
+  <a href="https://github.com/raulaguila">
+  <img align="center"
+        height="150em"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=raulaguila&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+  </a></br>
+</p>
 </div>
-  
-##
-### Tools
-<div style="display: inline_block">
-  <br />
 
-  <a href="https://code.visualstudio.com/">
-    <img
-      align="center"
-      alt="VSCode"
-      height="50"
-      width="65"
-      src="icons/vscode-original.svg"
-    />
-  </a>
-  <a href="https://github.com/">
+### Tools
+
+<div>
+<p align="center">
+
+  <a href="https://github.com/" style="text-decoration:none;">
     <img
       align="center"
       alt="Github"
@@ -32,7 +31,16 @@
       src="icons/github-original.svg"
     />
   </a>
-  <a href="https://go.dev/">
+  <a href="https://code.visualstudio.com/" style="text-decoration:none;">
+    <img
+      align="center"
+      alt="VSCode"
+      height="50"
+      width="65"
+      src="icons/vscode-original.svg"
+    />
+  </a>
+  <a href="https://go.dev/" style="text-decoration:none;">
     <img
       align="center"
       alt="Golang"
@@ -41,7 +49,7 @@
       src="icons/golang-original.svg"
     />
   </a>
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" style="text-decoration:none;">
     <img
       align="center"
       alt="Python"
@@ -50,25 +58,7 @@
       src="icons/python-original.svg"
     />
   </a>
-  <!-- <a href="https://reactjs.org/">
-    <img
-      align="center"
-      alt="React JS"
-      height="50"
-      width="65"
-      src="icons/react-original.svg"
-    />
-  </a> -->
-  <a href="https://www.docker.com/">
-    <img
-      align="center"
-      alt="Docker"
-      height="50"
-      width="65"
-      src="icons/docker-original.svg"
-    />
-  </a>
-  <a href="https://ubuntu.com/">
+  <a href="https://ubuntu.com/" style="text-decoration:none;">
     <img
       align="center"
       alt="Linux Ubuntu"
@@ -77,7 +67,16 @@
       src="icons/linux-original.svg"
     />
   </a>
-  <a href="https://www.mongodb.com/">
+  <a href="https://www.docker.com/" style="text-decoration:none;">
+    <img
+      align="center"
+      alt="Docker"
+      height="50"
+      width="65"
+      src="icons/docker-original.svg"
+    />
+  </a>
+  <a href="https://www.mongodb.com/" style="text-decoration:none;">
     <img
       align="center"
       alt="Mongo DB"
@@ -86,4 +85,14 @@
       src="icons/mongodb-original.svg"
     />
   </a>
+  <a href="https://www.postgresql.org/" style="text-decoration:none;">
+    <img
+      align="center"
+      alt="Postgres SQL"
+      height="50"
+      width="65"
+      src="icons/postgres-original.svg"
+    />
+  </a>
+</p>
 </div>
