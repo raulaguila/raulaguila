@@ -15,7 +15,7 @@
 </div>
 
 
-## Technologies Skill
+## Technologies / Skill
 ### 📋 Languages
 
 [![Python](https://img.shields.io/badge/python-3.10.8-ffdd54?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
