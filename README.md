@@ -50,15 +50,15 @@
       src="icons/python-original.svg"
     />
   </a>
-  <a href="https://reactjs.org/">
+  <!-- <a href="https://reactjs.org/">
     <img
       align="center"
-      alt="Visual Studio Code"
+      alt="React JS"
       height="50"
       width="65"
       src="icons/react-original.svg"
     />
-  </a>
+  </a> -->
   <a href="https://www.docker.com/">
     <img
       align="center"
