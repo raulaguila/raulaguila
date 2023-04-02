@@ -18,8 +18,8 @@
     <img
       align="center"
       alt="VSCode"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/vscode-original.svg"
     />
   </a>
@@ -27,8 +27,8 @@
     <img
       align="center"
       alt="Github"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/github-original.svg"
     />
   </a>
@@ -36,8 +36,8 @@
     <img
       align="center"
       alt="Golang"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/golang-original.svg"
     />
   </a>
@@ -45,8 +45,8 @@
     <img
       align="center"
       alt="Python"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/python-original.svg"
     />
   </a>
@@ -54,8 +54,8 @@
     <img
       align="center"
       alt="Visual Studio Code"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/react-original.svg"
     />
   </a>
@@ -63,8 +63,8 @@
     <img
       align="center"
       alt="Docker"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/docker-original.svg"
     />
   </a>
@@ -72,9 +72,18 @@
     <img
       align="center"
       alt="Linux Ubuntu"
-      height="30"
-      width="40"
+      height="50"
+      width="65"
       src="icons/linux-original.svg"
+    />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img
+      align="center"
+      alt="Mongo DB"
+      height="50"
+      width="65"
+      src="icons/mongodb-original.svg"
     />
   </a>
 </div>
