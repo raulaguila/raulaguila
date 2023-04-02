@@ -17,7 +17,7 @@
   <a href="https://code.visualstudio.com/">
     <img
       align="center"
-      alt="Sweyd-VSCode"
+      alt="VSCode"
       height="30"
       width="40"
       src="icons/vscode-original.svg"
@@ -26,16 +26,25 @@
   <a href="https://github.com/">
     <img
       align="center"
-      alt="Sweyd-VSCode"
+      alt="Github"
       height="30"
       width="40"
       src="icons/github-original.svg"
     />
   </a>
+  <a href="https://go.dev/">
+    <img
+      align="center"
+      alt="Golang"
+      height="30"
+      width="40"
+      src="icons/golang-original.svg"
+    />
+  </a>
   <a href="https://www.python.org/">
     <img
       align="center"
-      alt="Sweyd-VSCode"
+      alt="Python"
       height="30"
       width="40"
       src="icons/python-original.svg"
@@ -44,7 +53,7 @@
   <a href="https://reactjs.org/">
     <img
       align="center"
-      alt="Sweyd-VSCode"
+      alt="Visual Studio Code"
       height="30"
       width="40"
       src="icons/react-original.svg"
@@ -53,7 +62,7 @@
   <a href="https://www.docker.com/">
     <img
       align="center"
-      alt="Sweyd-VSCode"
+      alt="Docker"
       height="30"
       width="40"
       src="icons/docker-original.svg"
@@ -62,7 +71,7 @@
   <a href="https://ubuntu.com/">
     <img
       align="center"
-      alt="Sweyd-VSCode"
+      alt="Linux Ubuntu"
       height="30"
       width="40"
       src="icons/linux-original.svg"
