@@ -91,5 +91,14 @@
       src="icons/postgres-original.svg"
     />
   </a>
+  <a href="https://redis.io/" style="text-decoration:none;">
+    <img
+      align="center"
+      alt="Redis"
+      height="40"
+      width="55"
+      src="icons/redis-original.svg"
+    />
+  </a>
 </p>
 </div>
