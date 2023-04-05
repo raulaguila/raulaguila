@@ -34,14 +34,14 @@
 
 ### :floppy_disk: Databases
 
-![](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Postgres-05122A?style=flat&logo=postgresql&logoColor=23316192)&nbsp;
+![](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb&logoColor=4EA94B)&nbsp;
+![](https://img.shields.io/badge/Redis-05122A?style=flat&logo=redis&logoColor=23DD0031)&nbsp;
 
 ### :heavy_check_mark: Others
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker&logoColor=230db7ed)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420)&nbsp;
+![Mosquitto](https://img.shields.io/badge/Mosquitto-05122A?style=flat&logo=eclipsemosquitto&logoColor=233C5280)&nbsp;
+![](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
 
