@@ -1,4 +1,13 @@
-## Overview
+<h1 align="center"><b>Hi , I'm Raul del Aguila </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+- :office: Software Developer at [SIDIA](https://sidia.com/)
+- :sparkles: A passionate self-taught back-end developer
+- :fire: Currently learning and loving Go development by self
+- :muscle: I’m available for freelancing.
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div>
 <p align="center">
   <a href="https://github.com/raulaguila"  style="text-decoration:none;">
@@ -15,7 +24,7 @@
 </div>
 
 
-## Technologies / Skill
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ### :clipboard: Languages
 
 [![Python](https://img.shields.io/badge/python-v3.10.8-ffdd54?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
