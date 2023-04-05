@@ -31,7 +31,7 @@
 ![](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi&logoColor=B22222&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=2300ADD8&labelColor=282828)&nbsp;
+![](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=2300ADD8&labelColor=282828)&nbsp;
 
 ### :floppy_disk: Databases
 &emsp;
