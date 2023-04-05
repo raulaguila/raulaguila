@@ -42,3 +42,5 @@
 [![Docker](https://img.shields.io/badge/docker-v23.0.2-%230db7ed.svg?style=flat&logo=docker&logoColor=230db7ed)](https://www.docker.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-v22.04.2-E95420?style=flat&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
 [![Mosquitto](https://img.shields.io/badge/mosquitto-v2.0.15-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=233C5280)](https://mosquitto.org/)
+![Git](https://img.shields.io/badge/git-2.40-%23F05033.svg?style=flat&logo=git&logoColor=23F05033)
+
