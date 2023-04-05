@@ -22,13 +22,13 @@
 [![Java](https://img.shields.io/badge/Java-v17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.oracle.com/java/)
 [![Go](https://img.shields.io/badge/go-v1.20.2-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=2300ADD8)](https://go.dev/)
 
-### 💾 Databases
+### :floppy_disk: Databases
 
 [![Postgres](https://img.shields.io/badge/postgres-v15.2-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=23316192)](https://www.postgresql.org/)
 [![Mongo](https://img.shields.io/badge/MongoDB-v6.0.5-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4EA94B)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/redis-v6.2.11-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=23DD0031)](https://redis.io/)
 
-### 🥅 Other
+### :heavy_check_mark: Others
 
 [![Docker](https://img.shields.io/badge/docker-v23.0.2-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=230db7ed)](https://www.docker.com/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-v22.04.2-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)](https://ubuntu.com/)
