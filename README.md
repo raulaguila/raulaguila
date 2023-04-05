@@ -47,3 +47,4 @@
 ![](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&labelColor=282828)&nbsp;
+![](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&labelColor=282828)&nbsp;
