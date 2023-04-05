@@ -16,7 +16,7 @@
 
 
 ## Technologies / Skill
-### 📋 Languages
+### :clipboard: Languages
 
 [![Python](https://img.shields.io/badge/python-v3.10.8-ffdd54?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-v17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://www.oracle.com/java/)
