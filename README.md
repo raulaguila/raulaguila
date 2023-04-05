@@ -34,6 +34,8 @@
 
 ### :floppy_disk: Databases
 
+![](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=00000F&labelColor=282828)&nbsp;
+![](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=01529E&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=23316192&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=23DD0031&labelColor=282828)&nbsp;
