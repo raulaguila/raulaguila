@@ -27,11 +27,11 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ### :clipboard: Languages
 &emsp;
+![](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi&logoColor=B22222&labelColor=282828)
 ![](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=2300ADD8&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi&logoColor=B22222&labelColor=282828)
 
 ### :floppy_disk: Databases
 &emsp;
