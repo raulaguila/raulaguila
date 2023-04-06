@@ -63,7 +63,7 @@
 
 </div>
   
-### :desktop_computer: My Workstation Specification
+### :desktop_computer: Workstation
 <div align="center">
 
 ![CPU](https://img.shields.io/badge/-i9_12900K-05122A?style=flat&logo=intel&logoColor=blue&labelColor=282828)&nbsp;
