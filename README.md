@@ -53,3 +53,4 @@
 ![](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Postman-05122A?&logo=Postman&labelColor=282828)&nbsp;
 ![](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white&labelColor=282828)&nbsp;
+
