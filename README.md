@@ -28,46 +28,46 @@
 ### :clipboard: Languages
 <div align="center">
   
-![](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Delphi-05122A?style=flat&logo=delphi&logoColor=B22222&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=FFA518&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=2300ADD8&labelColor=282828)&nbsp;
+![](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c&logoColor=A8B9CC&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Delphi-0D1117?style=flat&logo=delphi&logoColor=B22222&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk&logoColor=FFA518&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go&logoColor=2300ADD8&labelColor=0D1117)&nbsp;
 
 </div>
   
 ### :floppy_disk: Databases
 <div align="center">
   
-![](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb&logoColor=01529E&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Postgres-05122A?style=flat&logo=postgresql&logoColor=23316192&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis&logoColor=23DD0031&labelColor=282828)&nbsp;
+![](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-MariaDB-0D1117?style=flat&logo=mariadb&logoColor=01529E&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Postgres-0D1117?style=flat&logo=postgresql&logoColor=23316192&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis&logoColor=23DD0031&labelColor=0D1117)&nbsp;
 
 </div>
   
 ### :heavy_check_mark: Others
 <div align="center">
   
-![](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=230db7ed&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=E95420&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Mosquitto-05122A?style=flat&logo=eclipsemosquitto&logoColor=233C5280&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=Jira&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Postman-05122A?&logo=Postman&labelColor=282828)&nbsp;
-![](https://img.shields.io/badge/-Shell_Script-05122A?style=flat&logo=gnu-bash&logoColor=white&labelColor=282828)&nbsp;
+![](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=230db7ed&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Ubuntu-0D1117?style=flat&logo=ubuntu&logoColor=E95420&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Mosquitto-0D1117?style=flat&logo=eclipsemosquitto&logoColor=233C5280&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Markdown-0D1117?style=flat&logo=markdown&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Jira-0D1117?style=flat&logo=Jira&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Postman-0D1117?&logo=Postman&labelColor=0D1117)&nbsp;
+![](https://img.shields.io/badge/-Shell_Script-0D1117?style=flat&logo=gnu-bash&logoColor=white&labelColor=0D1117)&nbsp;
 
 </div>
   
 ### :desktop_computer: Workstation
 <div align="center">
 
-![CPU](https://img.shields.io/badge/-i9_12900K-05122A?style=flat&logo=intel&logoColor=blue&labelColor=282828)&nbsp;
-![GPU](https://img.shields.io/badge/-RTX_3060-05122A?style=flat&logo=nvidia&labelColor=282828)&nbsp;
-![MEMORY](https://img.shields.io/badge/-Dominator_DDR4_64GB-05122A?style=flat&logo=corsair&labelColor=282828)&nbsp;
+![CPU](https://img.shields.io/badge/-i9_12900K-0D1117?style=flat&logo=intel&logoColor=blue&labelColor=0D1117)&nbsp;
+![GPU](https://img.shields.io/badge/-RTX_3060-0D1117?style=flat&logo=nvidia&labelColor=0D1117)&nbsp;
+![MEMORY](https://img.shields.io/badge/-Dominator_DDR4_64GB-0D1117?style=flat&logo=corsair&labelColor=0D1117)&nbsp;
   
 </div>
