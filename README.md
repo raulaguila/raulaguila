@@ -3,6 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </h1>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=E95420&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/YouTube_Music-990000?style=flat-square&logo=youtube-music&logoColor=990000&labelColor=0D1117" />
+</div>
+
 <h2>
   <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px />
   <b>About me</b>
@@ -21,10 +27,10 @@
 <p align="center">
   <img
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=raulaguila&show_icons=true&include_all_commits=false&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  <img
+      src="https://github-readme-stats.vercel.app/api?username=raulaguila&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=101010&layout=compact&hide_title=true" />
+  <img 
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=raulaguila&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+      src = "https://github-readme-stats.vercel.app/api/top-langs/?username=raulaguila&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true" />
 </p>
 
 <h2>
@@ -34,16 +40,18 @@
 
 ### :clipboard: Languages
 
-![](https://img.shields.io/badge/-C-0D1117?style=flat&logo=c&logoColor=A8B9CC&labelColor=0D1117)
-![](https://img.shields.io/badge/-Delphi-0D1117?style=flat&logo=delphi&logoColor=B22222&labelColor=0D1117)
-![](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk&logoColor=FFA518&labelColor=0D1117)
-![](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)
-![](https://img.shields.io/badge/-Golang-0D1117?style=flat&logo=go&logoColor=2300ADD8&labelColor=0D1117)
+<div>
+  <img src="https://img.shields.io/badge/Delphi-990000?style=flat-square&logo=delphi&logoColor=990000&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Golang-70D7E7?style=flat-square&logo=go&logoColor=70D7E7&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Python-3A719C?style=flat-square&logo=python&logoColor=3A719C&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Java-F89B24?style=flat-square&logo=openjdk&logoColor=F89B24&labelColor=0D1117" />
+</div>
 
 ### :floppy_disk: Databases
 
-![](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)
-![](https://img.shields.io/badge/-MariaDB-0D1117?style=flat&logo=mariadb&logoColor=01529E&labelColor=0D1117)
-![](https://img.shields.io/badge/-Postgres-0D1117?style=flat&logo=postgresql&logoColor=23316192&labelColor=0D1117)
-![](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=0D1117)
-![](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis&logoColor=23DD0031&labelColor=0D1117)
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=4EA94B&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Redis-C83632?style=flat-square&logo=redis&logoColor=C83632&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PostgreSQL-376695?style=flat-square&logo=postgresql&logoColor=376695&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/MariaDB-C27A5F?style=flat-square&logo=mariadb&logoColor=C27A5F&labelColor=0D1117" />
+</div>
