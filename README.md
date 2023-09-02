@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=E95420&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/VS_Code-4DB0F7?style=flat-square&logo=visual-studio-code&logoColor=4DB0F7&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/YouTube_Music-990000?style=flat-square&logo=youtube-music&logoColor=990000&labelColor=0D1117" />
 </div>
 
