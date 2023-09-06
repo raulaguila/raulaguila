@@ -55,4 +55,5 @@
   <img src="https://img.shields.io/badge/Redis-C83632?style=flat-square&logo=redis&logoColor=C83632&labelColor=0D1117">
   <img src="https://img.shields.io/badge/PostgreSQL-376695?style=flat-square&logo=postgresql&logoColor=376695&labelColor=0D1117">
   <img src="https://img.shields.io/badge/MariaDB-C27A5F?style=flat-square&logo=mariadb&logoColor=C27A5F&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-DE2B2C?style=flat-square&logo=microsoft%20sql%20server&logoColor=DE2B2C&labelColor=0D1117">
 </div>
