@@ -4,10 +4,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=FCC624&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=E95420&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/VS_Code-4DB0F7?style=flat-square&logo=visual-studio-code&logoColor=4DB0F7&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0808?style=flat-square&logo=youtube-music&logoColor=FF0808&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=FCC624&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Mac_OS-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=E95420&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0808?style=flat&logo=youtube-music&logoColor=FF0808&labelColor=0D1117">
 </div>
 
 <h2>
@@ -42,18 +42,17 @@
 ### :clipboard: Languages
 
 <div>
-  <img src="https://img.shields.io/badge/Delphi-EC3435?style=flat-square&logo=delphi&logoColor=EC3435&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Golang-70D7E7?style=flat-square&logo=go&logoColor=70D7E7&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Python-3A719C?style=flat-square&logo=python&logoColor=3A719C&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Java-F89B24?style=flat-square&logo=openjdk&logoColor=F89B24&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Delphi-EC3435?style=flat&logo=delphi&logoColor=EC3435&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Golang-70D7E7?style=flat&logo=go&logoColor=70D7E7&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Python-3A719C?style=flat&logo=python&logoColor=3A719C&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Java-F89B24?style=flat&logo=openjdk&logoColor=F89B24&labelColor=0D1117">
 </div>
 
 ### :floppy_disk: Databases
 
 <div>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=4EA94B&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Redis-C83632?style=flat-square&logo=redis&logoColor=C83632&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/PostgreSQL-376695?style=flat-square&logo=postgresql&logoColor=376695&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/MariaDB-C27A5F?style=flat-square&logo=mariadb&logoColor=C27A5F&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-DE2B2C?style=flat-square&logo=microsoft%20sql%20server&logoColor=DE2B2C&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=4EA94B&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Redis-C83632?style=flat&logo=redis&logoColor=C83632&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/PostgreSQL-376695?style=flat&logo=postgresql&logoColor=376695&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/MariaDB-C27A5F?style=flat&logo=mariadb&logoColor=C27A5F&labelColor=0D1117">
 </div>
