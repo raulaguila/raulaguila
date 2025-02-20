@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=FCC624&labelColor=0D1117">
   <img src="https://img.shields.io/badge/Mac_OS-FFFFFF?style=flat&logo=apple&logoColor=FFFFFF&labelColor=0D1117">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=E95420&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/YouTube_Music-FF0808?style=flat&logo=youtube-music&logoColor=FF0808&labelColor=0D1117">
 </div>
 
 <h2>
@@ -39,13 +38,15 @@
   <b>Skills</b>
 </h2>
 
-### :hammer: Tools
+### :hammer: Tools & DevOps
 
 <div>
   <img src="https://img.shields.io/badge/Docker-3262E5?style=flat&logo=docker&logoColor=3262E5&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Git-E95420?style=flat&logo=git&logoColor=E95420&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/Swagger-9BF36B?style=flat&logo=swagger&logoColor=9BF36B&labelColor=0D1117">
 </div>
 
-### :clipboard: Languages
+### :clipboard: Programming Languages
 
 <div>
   <img src="https://img.shields.io/badge/Delphi-EC3435?style=flat&logo=delphi&logoColor=EC3435&labelColor=0D1117">
